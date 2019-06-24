@@ -1,6 +1,7 @@
 # Marine-Animal-Image-Classifier
 
 ## Install Python
+* https://www.python.org/downloads/
 
 ## Creating a MSI Installer
 * Open *Command Prompt* and perform this command:
