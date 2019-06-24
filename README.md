@@ -1,5 +1,7 @@
 # Marine-Animal-Image-Classifier
 
+## Install Python
+
 ## Creating a MSI Installer
 * Open *Command Prompt* and perform this command:
 ```
